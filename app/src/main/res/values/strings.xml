@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Demo</string>
+
+
+    <string name="check_info">用户名或密码不能为空</string>
+    <string name="welcome">欢迎回来:</string>
+    <string name="login_fail">用户名或密码输入有误</string>
+    <string name="hello">先做对，再做好，莫着急，要很努力！</string>
+    <string name="activity">架构再出色，用户在乎的是他看到的！</string>
+    <string name="activity2">收藏的再多，终究没变成你自己的！</string>
+    <string name="activity3">基础必须扎实，淘汰的下一个会是你！</string>
+    <string name="title">能封装就不冗余，能共用就不重复！</string>
+    <string name="title1">8点30起床，你有什么资格睡懒觉？</string>
+    <string name="title2">Total：13/2=6.5  12.20号完结</string>
+    <string name="date">------2016年12月13日 牛栋</string>
+    <string name="date1">自信宽大，精力充沛，乐观进取的状态</string>
+    <string name="date2">创业的路上，没有人叫你起床，没有人为你买单，自我管理，自我成长，自我约束，然后自我突破，人都是逼出来的，为了那个可能告诉自己“我一定行”，整借学变。</string>
+
+</resources>
